@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenSnellgrove
-- 👀 I’m interested in Arficial Intelligence
-- 🌱 I’m currently learning C/C++
+- 👀 I’m interested in Arficial Intelligence and Robotics
+- 🌱 I’m currently learning [ros2-humble](https://docs.ros.org/en/humble/index.html) and [Weka 3](https://www.cs.waikato.ac.nz/ml/weka/)
 - 📫 Contant me on [LinkedIn](https://www.linkedin.com/in/bensnellgrove/)
 
 <!---
