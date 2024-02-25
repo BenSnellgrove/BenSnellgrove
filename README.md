@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenSnellgrove
 - 👀 I’m interested in Arficial Intelligence and Robotics
-- 🌱 I’m currently learning [ros2-humble](https://docs.ros.org/en/humble/index.html) and [Weka 3](https://www.cs.waikato.ac.nz/ml/weka/)
+- 🌱 I’m currently developing in Python/C++ for [ROS2-Humble](https://docs.ros.org/en/humble/index.html), C for [micro-ROS](https://micro.ros.org/) and a little bit of C++ for [Gazebo]([https://www.cs.waikato.ac.nz/ml/weka/](https://classic.gazebosim.org/))
 - 📫 Contant me on [LinkedIn](https://www.linkedin.com/in/bensnellgrove/)
 
 <!---
